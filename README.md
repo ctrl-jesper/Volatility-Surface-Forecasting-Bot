@@ -30,7 +30,7 @@ The fitted surface is rendered as an interactive 3-D plot alongside actual vs pr
 ## Installation
 
 ```bash
-git clone https://github.com/jespermathiasnielsen/Volatility-Surface-Forecasting-Bot.git
+git clone https://github.com/ctrl-jesper/Volatility-Surface-Forecasting-Bot.git
 cd Volatility-Surface-Forecasting-Bot
 pip install -r requirements.txt
 ```
@@ -134,4 +134,4 @@ Contributions are welcome. Please open an issue to discuss proposed changes befo
 
 MIT — see [LICENSE](LICENSE) for details.
 
-**Author:** [Jesper Mathias Nielsen](https://github.com/jespermathiasnielsen)
+**Author:** [Jesper Mathias Nielsen](https://github.com/ctrl-jesper)
